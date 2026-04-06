@@ -43,7 +43,7 @@
     </nav>
 
     <div class="filter-panel glass">
-        <h3 class="panel-title">Filter settings</h3>
+        <h3 class="panel-title">Filters</h3>
         <div class="filter-group">
             <input type="text" id="tx-name" placeholder="Transmitter name" class="filter-input">
             <input type="text" id="station-name" placeholder="Station name" class="filter-input">
